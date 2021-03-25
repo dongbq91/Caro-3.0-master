@@ -1,0 +1,25 @@
+Software: Caro 3.0
+Author: Bach QUoc DOng
+Major: BSc. Computer Science
+Class: 2018 -2022
+Institution: Eotvos Lorand University
+Email: bachquocdong@gmail.com
+
+
+
+Overall
+-------
+Game Caro version 3.0. Human vs Machine. Artificial Intelligence. Different name: Tic-tac-toe N x N table.
+
+Structure
+---------
+* Eclipse project in Java
+* Folder ~/bin/: Execution files (.class files).
+* Folder ~/src/: Source code files (.java files).
+* File ~/src/MainProgram.java: Main program
+* File ~/src/ArtificialIntelligence.java: Brain of the software.
+
+Usage
+-----
+$ cd bin
+$ java MainProgram
